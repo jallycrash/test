@@ -1,0 +1,14 @@
+{
+    "name": "jallycrash/test",
+    "description": "a composer test repository",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jallycrash",
+            "email": "14336328@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
